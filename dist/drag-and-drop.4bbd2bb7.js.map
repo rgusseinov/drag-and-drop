@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.js"],"names":["console","log"],"mappings":";AAAAA,QAAQC,IAAI","file":"drag-and-drop.4bbd2bb7.js","sourceRoot":"..","sourcesContent":["console.log(\"hello drag and drop\");\r\n"]}
